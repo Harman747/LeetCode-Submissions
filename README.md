@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Harman747/LeetCode-Submissions/tree/master/0004-median-of-two-sorted-arrays) |
 | [1288-remove-covered-intervals](https://github.com/Harman747/LeetCode-Submissions/tree/master/1288-remove-covered-intervals) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/Harman747/LeetCode-Submissions/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Sorting
 |  |
 | ------- |
@@ -29,8 +30,21 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Harman747/LeetCode-Submissions/tree/master/0004-median-of-two-sorted-arrays) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/Harman747/LeetCode-Submissions/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Divide and Conquer
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Harman747/LeetCode-Submissions/tree/master/0004-median-of-two-sorted-arrays) |
+## Hash Table
+|  |
+| ------- |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/Harman747/LeetCode-Submissions/tree/master/3532-path-existence-queries-in-a-graph-i) |
+## Union-Find
+|  |
+| ------- |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/Harman747/LeetCode-Submissions/tree/master/3532-path-existence-queries-in-a-graph-i) |
+## Graph Theory
+|  |
+| ------- |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/Harman747/LeetCode-Submissions/tree/master/3532-path-existence-queries-in-a-graph-i) |
 <!---LeetCode Topics End-->
