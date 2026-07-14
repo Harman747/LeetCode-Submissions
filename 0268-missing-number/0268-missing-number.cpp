@@ -7,6 +7,8 @@ public:
             xr ^= i;
             xr ^= nums[i];
         }
+
         return xr;
+    
     }
 };
