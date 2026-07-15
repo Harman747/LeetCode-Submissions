@@ -1,5 +1,8 @@
 class Solution {
 public:
+    
+    // we can also return n directly as from the formula of odd_sum and even_sum we can see only n is the common factor
+    // se we can also return n directly
 
     int gcd(int a , int b){
         if(b == 0) return a;
@@ -15,9 +18,6 @@ public:
         int even_sum = (n*(n+1));
 
         return gcd(odd_sum , even_sum);
-
-        // we can also return n directly as from the formula of odd_sum and even_sum we can see only n is the common factor
-        // se we can also return n directly
 
     }
 };
