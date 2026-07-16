@@ -10,14 +10,12 @@ public:
 
     long long gcdSum(vector<int>& nums) {
 
-        vector<int> prefix_gcd;
-        prefix_gcd.reserve(nums.size());
-        
+        vector<int> prefix_gcd(nums.size() , 0);
         int maxi = INT_MIN;
 
         for(int i = 0 ; i < nums.size() ; i++){
             maxi = max(maxi , nums[i]);
-            prefix_gcd.push_back(get_gcd(maxi , nums[i]));
+            prefix_gcd[i] = get_gcd(maxi , nums[i]);
         }
 
         long long sum = 0;
