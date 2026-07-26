@@ -176,4 +176,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0918-maximum-sum-circular-subarray](https://github.com/Harman747/LeetCode-Submissions/tree/master/0918-maximum-sum-circular-subarray) |
+## Linked List
+|  |
+| ------- |
+| [0092-reverse-linked-list-ii](https://github.com/Harman747/LeetCode-Submissions/tree/master/0092-reverse-linked-list-ii) |
 <!---LeetCode Topics End-->
