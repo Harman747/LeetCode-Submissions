@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/Harman747/LeetCode-Submissions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0268-missing-number](https://github.com/Harman747/LeetCode-Submissions/tree/master/0268-missing-number) |
 | [0560-subarray-sum-equals-k](https://github.com/Harman747/LeetCode-Submissions/tree/master/0560-subarray-sum-equals-k) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Harman747/LeetCode-Submissions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0704-binary-search](https://github.com/Harman747/LeetCode-Submissions/tree/master/0704-binary-search) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Harman747/LeetCode-Submissions/tree/master/0918-maximum-sum-circular-subarray) |
 | [1260-shift-2d-grid](https://github.com/Harman747/LeetCode-Submissions/tree/master/1260-shift-2d-grid) |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Harman747/LeetCode-Submissions/tree/master/0268-missing-number) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Harman747/LeetCode-Submissions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1288-remove-covered-intervals](https://github.com/Harman747/LeetCode-Submissions/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/Harman747/LeetCode-Submissions/tree/master/1331-rank-transform-of-an-array) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Harman747/LeetCode-Submissions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -36,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Harman747/LeetCode-Submissions/tree/master/0268-missing-number) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Harman747/LeetCode-Submissions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Harman747/LeetCode-Submissions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Harman747/LeetCode-Submissions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Harman747/LeetCode-Submissions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
