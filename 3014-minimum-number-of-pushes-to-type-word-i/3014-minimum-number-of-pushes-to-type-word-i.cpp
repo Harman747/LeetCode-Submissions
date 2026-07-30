@@ -1,24 +1,22 @@
 class Solution {
 public:
     int minimumPushes(string word) {
+        int n = word.length();
         
-        int press = 1 , ans = 0 , n = word.length();
-        
-        if(n < 8){
+        if(n <= 8){
             return n;
         }
 
-        while(n > 0){
-            
-            int taken_number_to_press = min(n,8);
+        int ans = 0;
+        int press = 1;
 
-            ans += (press * taken_number_to_press);
-            
-            n -= taken_number_to_press;
-            
+        while(n > 0){
+            int  k = min(n , 8);
+            ans += (press * k);
             press++;
+            n -= k;            
         }
-        
+
         return ans;
     }
 };
