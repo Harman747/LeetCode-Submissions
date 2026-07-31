@@ -10,7 +10,7 @@ public:
         sort(count.begin() , count.end());
 
         int k = 1;
-        int ind = count.size() - 1;
+        int ind = 25;
         int ans = 0;
         int p = 1;
 
