@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/Harman747/LeetCode-Submissions/tree/master/0242-valid-anagram) |
+| [0344-reverse-string](https://github.com/Harman747/LeetCode-Submissions/tree/master/0344-reverse-string) |
 | [0520-detect-capital](https://github.com/Harman747/LeetCode-Submissions/tree/master/0520-detect-capital) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Harman747/LeetCode-Submissions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Harman747/LeetCode-Submissions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0344-reverse-string](https://github.com/Harman747/LeetCode-Submissions/tree/master/0344-reverse-string) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Harman747/LeetCode-Submissions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Harman747/LeetCode-Submissions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Dynamic Programming
