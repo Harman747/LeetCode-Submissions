@@ -6,22 +6,13 @@ public:
 
         unordered_map<int,int> count;
 
-        while(left <= right && right < nums.size()){
-            if(count[nums[right]] < k){
-                count[nums[right]]++;
-                right++;
+        while(right < nums.size()){
+            count[nums[right]]++;
+            while(count[nums[right]] > k){
+                count[nums[left]]--;
+                left++;
             }
-
-            else{
-                
-                int number = nums[right];
-
-                while(count[number] >= k){
-                    count[nums[left]]--;
-                    left++;
-                }
-
-            }
+            right++;
             ans = max(ans , right - left);
         }
         return ans;
