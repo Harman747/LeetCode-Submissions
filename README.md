@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Harman747/LeetCode-Submissions/tree/master/0004-median-of-two-sorted-arrays) |
+| [0041-first-missing-positive](https://github.com/Harman747/LeetCode-Submissions/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/Harman747/LeetCode-Submissions/tree/master/0049-group-anagrams) |
 | [0268-missing-number](https://github.com/Harman747/LeetCode-Submissions/tree/master/0268-missing-number) |
 | [0486-predict-the-winner](https://github.com/Harman747/LeetCode-Submissions/tree/master/0486-predict-the-winner) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0041-first-missing-positive](https://github.com/Harman747/LeetCode-Submissions/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/Harman747/LeetCode-Submissions/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/Harman747/LeetCode-Submissions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Harman747/LeetCode-Submissions/tree/master/0268-missing-number) |
