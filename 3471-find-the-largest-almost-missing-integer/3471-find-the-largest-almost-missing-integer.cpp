@@ -30,19 +30,11 @@ public:
 
         int f1 = freq[nums[0]] , f2 = freq[nums[n - 1]];
 
-        if((freq[nums[0]] == n) && k != nums.size()) return -1;
+        if(f1 == 1) ans = max(ans , nums[0]);
 
-        if(f1 == 1 && f2 != 1){
-            return nums[0];
-        }
+        if(f2 == 1) ans = max(ans , nums[n-1]);
 
-        if(f1 != 1 && f2 == 1){
-            return nums[n-1];
-        }
-
-        if(f1 != 1 && f2 != 1) return -1;
-
-        return max(nums[0] , nums[nums.size() - 1]);
+        return ans;
         
     }
 };
