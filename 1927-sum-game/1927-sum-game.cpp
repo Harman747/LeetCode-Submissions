@@ -8,7 +8,7 @@ public:
         for(int i = 0 ; i < num.length() ; i++){
             
             if(num[i] != '?'){
-                (i < n / 2) ? left_sum+= num[i] - '0' : right_sum+= num[i] - '0';
+                (i < n / 2 ? left_sum : right_sum) += num[i] - '0';
             }
 
             else{
@@ -16,19 +16,12 @@ public:
             }
         }
         
-        if(abs(count_lq - count_rq) % 2 != 0) return true;
+        int dif_q = abs(count_lq - count_rq);
 
-        if(left_sum > right_sum){
-            int diff = left_sum - right_sum;
-            int q_mark_factor = count_rq - count_lq;
-            
-            return !(diff == (q_mark_factor/2 * 9));
-        }
-
-        int diff = right_sum - left_sum;
-        int q_mark_factor = count_lq - count_rq;
+        if(dif_q % 2 == 1) return true;
         
-        return !(diff == (q_mark_factor/2 * 9));
-
+        if(left_sum > right_sum) return !(left_sum - right_sum == (count_rq - count_lq) / 2 * 9);
+        
+        return !(right_sum - left_sum == (count_lq - count_rq) / 2 * 9);
     }
 };
