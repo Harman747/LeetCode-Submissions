@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/Harman747/LeetCode-Submissions/tree/master/0029-divide-two-integers) |
+| [0043-multiply-strings](https://github.com/Harman747/LeetCode-Submissions/tree/master/0043-multiply-strings) |
 | [0268-missing-number](https://github.com/Harman747/LeetCode-Submissions/tree/master/0268-missing-number) |
 | [0486-predict-the-winner](https://github.com/Harman747/LeetCode-Submissions/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Harman747/LeetCode-Submissions/tree/master/0628-maximum-product-of-three-numbers) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Harman747/LeetCode-Submissions/tree/master/0005-longest-palindromic-substring) |
 | [0008-string-to-integer-atoi](https://github.com/Harman747/LeetCode-Submissions/tree/master/0008-string-to-integer-atoi) |
+| [0043-multiply-strings](https://github.com/Harman747/LeetCode-Submissions/tree/master/0043-multiply-strings) |
 | [0049-group-anagrams](https://github.com/Harman747/LeetCode-Submissions/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/Harman747/LeetCode-Submissions/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Harman747/LeetCode-Submissions/tree/master/0344-reverse-string) |
@@ -253,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/Harman747/LeetCode-Submissions/tree/master/0043-multiply-strings) |
 | [1260-shift-2d-grid](https://github.com/Harman747/LeetCode-Submissions/tree/master/1260-shift-2d-grid) |
 | [1929-concatenation-of-array](https://github.com/Harman747/LeetCode-Submissions/tree/master/1929-concatenation-of-array) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Harman747/LeetCode-Submissions/tree/master/3069-distribute-elements-into-two-arrays-i) |
