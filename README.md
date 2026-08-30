@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Harman747/LeetCode-Submissions/tree/master/0049-group-anagrams) |
 | [0057-insert-interval](https://github.com/Harman747/LeetCode-Submissions/tree/master/0057-insert-interval) |
 | [0118-pascals-triangle](https://github.com/Harman747/LeetCode-Submissions/tree/master/0118-pascals-triangle) |
+| [0119-pascals-triangle-ii](https://github.com/Harman747/LeetCode-Submissions/tree/master/0119-pascals-triangle-ii) |
 | [0268-missing-number](https://github.com/Harman747/LeetCode-Submissions/tree/master/0268-missing-number) |
 | [0486-predict-the-winner](https://github.com/Harman747/LeetCode-Submissions/tree/master/0486-predict-the-winner) |
 | [0560-subarray-sum-equals-k](https://github.com/Harman747/LeetCode-Submissions/tree/master/0560-subarray-sum-equals-k) |
@@ -191,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Harman747/LeetCode-Submissions/tree/master/0005-longest-palindromic-substring) |
 | [0118-pascals-triangle](https://github.com/Harman747/LeetCode-Submissions/tree/master/0118-pascals-triangle) |
+| [0119-pascals-triangle-ii](https://github.com/Harman747/LeetCode-Submissions/tree/master/0119-pascals-triangle-ii) |
 | [0486-predict-the-winner](https://github.com/Harman747/LeetCode-Submissions/tree/master/0486-predict-the-winner) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Harman747/LeetCode-Submissions/tree/master/0918-maximum-sum-circular-subarray) |
 | [1140-stone-game-ii](https://github.com/Harman747/LeetCode-Submissions/tree/master/1140-stone-game-ii) |
