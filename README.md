@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Harman747/LeetCode-Submissions/tree/master/0005-longest-palindromic-substring) |
 | [0049-group-anagrams](https://github.com/Harman747/LeetCode-Submissions/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/Harman747/LeetCode-Submissions/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Harman747/LeetCode-Submissions/tree/master/0344-reverse-string) |
@@ -174,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Harman747/LeetCode-Submissions/tree/master/0005-longest-palindromic-substring) |
 | [0344-reverse-string](https://github.com/Harman747/LeetCode-Submissions/tree/master/0344-reverse-string) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Harman747/LeetCode-Submissions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Harman747/LeetCode-Submissions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -182,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Harman747/LeetCode-Submissions/tree/master/0005-longest-palindromic-substring) |
 | [0486-predict-the-winner](https://github.com/Harman747/LeetCode-Submissions/tree/master/0486-predict-the-winner) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Harman747/LeetCode-Submissions/tree/master/0918-maximum-sum-circular-subarray) |
 | [1140-stone-game-ii](https://github.com/Harman747/LeetCode-Submissions/tree/master/1140-stone-game-ii) |
@@ -356,4 +359,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Harman747/LeetCode-Submissions/tree/master/2213-longest-substring-of-one-repeating-character) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/Harman747/LeetCode-Submissions/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
