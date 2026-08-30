@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/Harman747/LeetCode-Submissions/tree/master/0029-divide-two-integers) |
 | [0268-missing-number](https://github.com/Harman747/LeetCode-Submissions/tree/master/0268-missing-number) |
 | [0486-predict-the-winner](https://github.com/Harman747/LeetCode-Submissions/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Harman747/LeetCode-Submissions/tree/master/0628-maximum-product-of-three-numbers) |
@@ -213,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/Harman747/LeetCode-Submissions/tree/master/0029-divide-two-integers) |
 | [0268-missing-number](https://github.com/Harman747/LeetCode-Submissions/tree/master/0268-missing-number) |
 | [1386-cinema-seat-allocation](https://github.com/Harman747/LeetCode-Submissions/tree/master/1386-cinema-seat-allocation) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Harman747/LeetCode-Submissions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
