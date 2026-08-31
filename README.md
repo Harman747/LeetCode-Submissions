@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0008-string-to-integer-atoi](https://github.com/Harman747/LeetCode-Submissions/tree/master/0008-string-to-integer-atoi) |
 | [0043-multiply-strings](https://github.com/Harman747/LeetCode-Submissions/tree/master/0043-multiply-strings) |
 | [0049-group-anagrams](https://github.com/Harman747/LeetCode-Submissions/tree/master/0049-group-anagrams) |
+| [0125-valid-palindrome](https://github.com/Harman747/LeetCode-Submissions/tree/master/0125-valid-palindrome) |
 | [0168-excel-sheet-column-title](https://github.com/Harman747/LeetCode-Submissions/tree/master/0168-excel-sheet-column-title) |
 | [0242-valid-anagram](https://github.com/Harman747/LeetCode-Submissions/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Harman747/LeetCode-Submissions/tree/master/0344-reverse-string) |
@@ -186,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Harman747/LeetCode-Submissions/tree/master/0005-longest-palindromic-substring) |
+| [0125-valid-palindrome](https://github.com/Harman747/LeetCode-Submissions/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/Harman747/LeetCode-Submissions/tree/master/0344-reverse-string) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Harman747/LeetCode-Submissions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Harman747/LeetCode-Submissions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
