@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/Harman747/LeetCode-Submissions/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/Harman747/LeetCode-Submissions/tree/master/0049-group-anagrams) |
 | [0057-insert-interval](https://github.com/Harman747/LeetCode-Submissions/tree/master/0057-insert-interval) |
+| [0066-plus-one](https://github.com/Harman747/LeetCode-Submissions/tree/master/0066-plus-one) |
 | [0118-pascals-triangle](https://github.com/Harman747/LeetCode-Submissions/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Harman747/LeetCode-Submissions/tree/master/0119-pascals-triangle-ii) |
 | [0268-missing-number](https://github.com/Harman747/LeetCode-Submissions/tree/master/0268-missing-number) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0029-divide-two-integers](https://github.com/Harman747/LeetCode-Submissions/tree/master/0029-divide-two-integers) |
 | [0043-multiply-strings](https://github.com/Harman747/LeetCode-Submissions/tree/master/0043-multiply-strings) |
+| [0066-plus-one](https://github.com/Harman747/LeetCode-Submissions/tree/master/0066-plus-one) |
 | [0168-excel-sheet-column-title](https://github.com/Harman747/LeetCode-Submissions/tree/master/0168-excel-sheet-column-title) |
 | [0268-missing-number](https://github.com/Harman747/LeetCode-Submissions/tree/master/0268-missing-number) |
 | [0486-predict-the-winner](https://github.com/Harman747/LeetCode-Submissions/tree/master/0486-predict-the-winner) |
