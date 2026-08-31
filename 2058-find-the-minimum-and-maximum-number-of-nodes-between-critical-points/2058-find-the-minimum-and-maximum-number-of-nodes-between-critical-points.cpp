@@ -16,9 +16,10 @@ public:
         if(!head || !head -> next) return ans;
 
         ListNode * temp = head -> next;
+
         if(!temp -> next) return ans;
         
-        int least_first = -1 , least_second = -1 , last = -1 , mini = INT_MAX; 
+        int first = -1 , current_min_diff = INT_MAX , prev_point = -1 , last = -1;
 
         int prev_val = head -> val;
         int next_val = temp -> next -> val;
@@ -26,36 +27,30 @@ public:
 
         while(temp && temp -> next){
             if((temp -> val > prev_val && temp -> val > next_val) || (temp -> val < prev_val && temp -> val < next_val)){
-                if(least_first == -1){
-                    least_first = ind;
+                if(first == -1){
+                    first = ind;
+                    prev_point = ind;
                 }
-
-                else if(least_second == -1){
-                    least_second = ind;
-                    mini = ind - last;
-                }
-
                 else{
-                    mini = min(mini , ind - last);
+                    current_min_diff = min(current_min_diff , ind - prev_point);
+                    prev_point = ind;
                 }
-
-                last = max(last , ind);
-
+                last = ind;
             }
-            ind++;
+
             prev_val = temp -> val;
             temp = temp -> next;
-
             if(!temp -> next) break;
             next_val = temp -> next -> val;
+            ind++;
         }
 
-        if(least_first == -1 || least_second == -1 || last == -1){
+        if((first == -1) || (last == first)){
             return ans;
         }
 
-        ans[0] = mini;
-        ans[1] = last - least_first;
+        ans[0] = current_min_diff;
+        ans[1] = last - first;
 
         return ans;
     }
