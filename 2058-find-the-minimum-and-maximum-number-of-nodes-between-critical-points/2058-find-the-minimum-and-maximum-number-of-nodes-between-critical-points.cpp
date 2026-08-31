@@ -39,7 +39,6 @@ public:
         if(points.size() <= 1) return ans;
 
         int mini = INT_MAX , maxi = INT_MIN;
-        sort(points.begin() , points.end());
 
         maxi = points[points.size() - 1] - points[0];
 
