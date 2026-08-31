@@ -18,7 +18,7 @@ public:
         ListNode * temp = head -> next;
         if(!temp -> next) return ans;
         
-        vector<int> points;
+        int least_first = -1 , least_second = -1 , last = -1 , mini = INT_MAX; 
 
         int prev_val = head -> val;
         int next_val = temp -> next -> val;
@@ -26,7 +26,21 @@ public:
 
         while(temp && temp -> next){
             if((temp -> val > prev_val && temp -> val > next_val) || (temp -> val < prev_val && temp -> val < next_val)){
-                points.push_back(ind);
+                if(least_first == -1){
+                    least_first = ind;
+                }
+
+                else if(least_second == -1){
+                    least_second = ind;
+                    mini = ind - last;
+                }
+
+                else{
+                    mini = min(mini , ind - last);
+                }
+
+                last = max(last , ind);
+
             }
             ind++;
             prev_val = temp -> val;
@@ -36,19 +50,12 @@ public:
             next_val = temp -> next -> val;
         }
 
-        if(points.size() <= 1) return ans;
-
-        int mini = INT_MAX , maxi = INT_MIN;
-
-        maxi = points[points.size() - 1] - points[0];
-
-        for(int i = 1 ; i < points.size() ; i++){
-            int diff = points[i] - points[i-1];
-            mini = min(mini , diff);
+        if(least_first == -1 || least_second == -1 || last == -1){
+            return ans;
         }
 
         ans[0] = mini;
-        ans[1] = maxi;
+        ans[1] = last - least_first;
 
         return ans;
     }
