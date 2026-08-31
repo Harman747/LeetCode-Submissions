@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Harman747/LeetCode-Submissions/tree/master/0004-median-of-two-sorted-arrays) |
+| [0014-longest-common-prefix](https://github.com/Harman747/LeetCode-Submissions/tree/master/0014-longest-common-prefix) |
 | [0041-first-missing-positive](https://github.com/Harman747/LeetCode-Submissions/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/Harman747/LeetCode-Submissions/tree/master/0049-group-anagrams) |
 | [0057-insert-interval](https://github.com/Harman747/LeetCode-Submissions/tree/master/0057-insert-interval) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Harman747/LeetCode-Submissions/tree/master/0005-longest-palindromic-substring) |
 | [0008-string-to-integer-atoi](https://github.com/Harman747/LeetCode-Submissions/tree/master/0008-string-to-integer-atoi) |
+| [0014-longest-common-prefix](https://github.com/Harman747/LeetCode-Submissions/tree/master/0014-longest-common-prefix) |
 | [0043-multiply-strings](https://github.com/Harman747/LeetCode-Submissions/tree/master/0043-multiply-strings) |
 | [0049-group-anagrams](https://github.com/Harman747/LeetCode-Submissions/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/Harman747/LeetCode-Submissions/tree/master/0125-valid-palindrome) |
@@ -390,4 +392,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/Harman747/LeetCode-Submissions/tree/master/0101-symmetric-tree) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Harman747/LeetCode-Submissions/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
