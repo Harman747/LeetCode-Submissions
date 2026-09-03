@@ -1,20 +1,11 @@
 class Solution {
 public:
     bool uniformArray(vector<int>& nums1) {
-        int smallest_odd = INT_MAX , ind_odd = 0 , smallest_even = INT_MAX , ind_even = 0;
+        int smallest_odd = INT_MAX;
 
         for(int i = 0 ; i < nums1.size() ; i++){
             if(nums1[i] % 2 != 0){
-                if(nums1[i] < smallest_odd){
-                    smallest_odd = nums1[i];
-                    ind_odd = i;
-                }
-            }
-            else{
-                if(nums1[i] < smallest_even){
-                    smallest_even = nums1[i];
-                    ind_even = i;
-                }
+                smallest_odd = min(smallest_odd , nums1[i]);
             }
         }
         
