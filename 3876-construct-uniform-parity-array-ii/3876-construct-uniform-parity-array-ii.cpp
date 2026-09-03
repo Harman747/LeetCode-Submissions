@@ -20,11 +20,11 @@ public:
             int x = nums1[i];
 
             if(x % 2 == 0){
-                all_odd &= (x - smallest_odd >= 1) ? true : false;
+                all_odd &= (x - smallest_odd >= 1);
             } 
 
             else{
-                all_even &= (x - smallest_odd >= 1) ? true : false;
+                all_even &= (x - smallest_odd >= 1);
             } 
         }
 
