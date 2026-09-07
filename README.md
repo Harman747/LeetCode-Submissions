@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/Harman747/LeetCode-Submissions/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Harman747/LeetCode-Submissions/tree/master/0119-pascals-triangle-ii) |
 | [0268-missing-number](https://github.com/Harman747/LeetCode-Submissions/tree/master/0268-missing-number) |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/Harman747/LeetCode-Submissions/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0486-predict-the-winner](https://github.com/Harman747/LeetCode-Submissions/tree/master/0486-predict-the-winner) |
 | [0560-subarray-sum-equals-k](https://github.com/Harman747/LeetCode-Submissions/tree/master/0560-subarray-sum-equals-k) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Harman747/LeetCode-Submissions/tree/master/0628-maximum-product-of-three-numbers) |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Harman747/LeetCode-Submissions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0268-missing-number](https://github.com/Harman747/LeetCode-Submissions/tree/master/0268-missing-number) |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/Harman747/LeetCode-Submissions/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0704-binary-search](https://github.com/Harman747/LeetCode-Submissions/tree/master/0704-binary-search) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Harman747/LeetCode-Submissions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Harman747/LeetCode-Submissions/tree/master/3312-sorted-gcd-pair-queries) |
@@ -162,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Harman747/LeetCode-Submissions/tree/master/0004-median-of-two-sorted-arrays) |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/Harman747/LeetCode-Submissions/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Harman747/LeetCode-Submissions/tree/master/0918-maximum-sum-circular-subarray) |
 ## Hash Table
 |  |
@@ -319,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Segment Tree
 |  |
 | ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/Harman747/LeetCode-Submissions/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Harman747/LeetCode-Submissions/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Harman747/LeetCode-Submissions/tree/master/3501-maximize-active-section-with-trade-ii) |
 ## Queue
@@ -396,6 +400,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Ordered Set
 |  |
 | ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/Harman747/LeetCode-Submissions/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Harman747/LeetCode-Submissions/tree/master/2213-longest-substring-of-one-repeating-character) |
 ## Manacher
 |  |
@@ -413,4 +418,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Harman747/LeetCode-Submissions/tree/master/0014-longest-common-prefix) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/Harman747/LeetCode-Submissions/tree/master/0315-count-of-smaller-numbers-after-self) |
+## Merge Sort
+|  |
+| ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/Harman747/LeetCode-Submissions/tree/master/0315-count-of-smaller-numbers-after-self) |
+## Treap
+|  |
+| ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/Harman747/LeetCode-Submissions/tree/master/0315-count-of-smaller-numbers-after-self) |
 <!---LeetCode Topics End-->
