@@ -25,11 +25,9 @@ public:
         int sum = left_tree_pair.first + right_tree_pair.first + root -> val;
         int nodes = left_tree_pair.second + right_tree_pair.second + 1;
 
-        pair<int , int> current_p = make_pair(sum , nodes);
-
         if(sum / nodes == root -> val) ans++;
 
-        return current_p;
+        return {sum , nodes};
 
     }
 
