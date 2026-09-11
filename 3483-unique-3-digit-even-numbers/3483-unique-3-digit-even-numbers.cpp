@@ -1,26 +1,39 @@
 class Solution {
 public:
     int totalNumbers(vector<int>& digits) {
-        
-        unordered_set<string> st;
+        int ans = 0;
+        vector<int> freq(10 , 0);
+    
+        for(int x : digits){
+            freq[x]++;
+        }
 
-        for(int i = 0 ; i < digits.size() ; i++){
-            
-            if(digits[i] == 0) continue;
+        for(int i = 100 ; i < 1000 ; i += 2){
+            int n = i;
+            int ones = n % 10; n /= 10;
+            int tens = n % 10; n /= 10;
+            int hund = n % 10;
 
-            for(int j = 0 ; j < digits.size() ; j++){
-            
-                if(j == i) continue;
+            if(ones == tens && tens == hund){
+                if(freq[ones] >= 3) ans++;
+            }
 
-                for(int k = 0 ; k < digits.size() ; k++){
-            
-                    if(k == i || k == j) continue;
-                    if(digits[k] % 2 != 0) continue;
-                    string cur_s = to_string(digits[i]) + to_string(digits[j]) + to_string(digits[k]);
-                    st.insert(cur_s);
-                }
+            else if(ones == tens){
+                if(freq[ones] >= 2 && freq[hund] >= 1) ans++;
+            }
+
+            else if(tens == hund){
+                if(freq[tens] >= 2  && freq[ones] >= 1) ans++;
+            }
+
+            else if(ones == hund){
+                if(freq[ones] >= 2  && freq[tens] >= 1) ans++;
+            }
+
+            else{
+                if(freq[ones] > 0 && freq[tens] > 0 && freq[hund] > 0) ans++;
             }
         }
-        return st.size();
+        return ans;
     }
 };
